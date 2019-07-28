@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vlaskz/ytUploader/issues"
   },
-  "homepage": "https://github.com/vlaskz/ytUploader#readme"
+  "homepage": "https://github.com/vlaskz/ytUploader#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }

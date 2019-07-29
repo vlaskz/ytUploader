@@ -1,0 +1,25 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "A group of bots that automates video creation, edit, and uploading onto Youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlaskz/ytUploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlaskz/ytUploader/issues"
+  },
+  "homepage": "https://github.com/vlaskz/ytUploader#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "ibm-watson": "^4.3.0",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.16"
+  }
+}
